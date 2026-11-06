@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "腾讯 QQ 表情",
+    "company": "腾讯",
+    "source_type": "JSON API",
+    "request_method": "GET",
+    "url": "https://h5api.sginput.qq.com/wxbq/search",
+    "purpose": "按关键词搜索 QQ 表情图片"
+  },
+  {
+    "id": 2,
+    "name": "IP138 手机归属地查询",
+    "company": "IP138",
+    "source_type": "HTML",
+    "request_method": "GET",
+    "url": "https://m.ip138.com/sj.asp",
+    "purpose": "查询手机号码归属地并保存响应 HTML"
+  }
+]

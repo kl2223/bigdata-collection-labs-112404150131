@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "device_type": "个人计算机",
+    "operating_system": "Windows 11",
+    "python_version": "3.11",
+    "ide": "PyCharm",
+    "libraries": [
+      "requests"
+    ]
+  }
+]
